@@ -2,8 +2,8 @@
 
 set -e
 
-DEFAULT_DIR=~/.pistactl
-DEFAULT_SESSION=pistactl
+DEFAULT_DIR=~/.pistactl.sh
+DEFAULT_SESSION=pistactl.sh
 DEFAULT_PISTA_OPTS="-l 3 -f ' (' -s ')    (' -r ') ' -x"
 
 SLOTS_CONF_FILE_NAME=slots.conf
